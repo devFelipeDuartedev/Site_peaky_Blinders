@@ -1,0 +1,46 @@
+/*Gerais*/
+
+body {
+  background-image: url(../../img/fundo\ thomas.png);
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  background-repeat:no-repeat;
+  background-size: 120% 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*Títulos*/
+
+.titulo-principal {
+  text-align: justify;
+  margin-left: 2%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 45px;
+}
+
+.personagem {
+  text-align: justify;
+  margin-left: 2%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 45px;
+}
+
+.verdadeiro-thomas {
+  text-align: justify;
+  margin-left: 2%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 45px;
+}
+
+/*Textos*/
+
+.texto-thomas {
+  text-align: justify;
+  margin-left: 1%;
+  margin-right: 40%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 30px;
+}

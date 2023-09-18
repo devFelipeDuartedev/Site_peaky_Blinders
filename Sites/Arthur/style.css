@@ -1,0 +1,50 @@
+/*Geral*/
+
+body {
+  background-image: url(../../img/fundo\ arthur.png);
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  background-repeat:no-repeat;
+  background-size: 100% 150%;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*Títulos*/
+
+.titulo-principal {
+  text-align: justify;
+  margin-left: 10%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 50px;
+}
+
+.historia {
+  text-align: justify;
+  margin-top: -31%;
+  margin-left: 60%;
+  margin-right: 5%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 50px;
+}
+
+/*Textos*/
+
+.texto-principal {
+  text-align: justify;
+  margin-top: 5%;
+  margin-left: 3%;
+  margin-right: 70%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 35px;
+}
+
+.historia-personagem {
+  text-align: justify;
+  margin-left: 60%;
+  margin-right: 3%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 35px;
+  }

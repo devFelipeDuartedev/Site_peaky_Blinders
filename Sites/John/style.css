@@ -1,0 +1,43 @@
+/*Geral*/
+
+body {
+  background-image: url(../../img/fundo\ john.png);
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  background-repeat:no-repeat;
+  background-size: 100% 200%;
+  font-family: 'Roboto', sans-serif;
+  background-position-y: -60px;
+}
+
+/*Títulos*/
+
+.titulo-principal {
+  text-align: center;
+  margin-left: 2%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 50px;
+}
+
+/*Textos*/
+
+.texto-esquerda {
+  text-align: justify;
+  margin-top: 5%;
+  margin-left: 3%;
+  margin-right: 70%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 30px;
+}
+
+.texto-direita {
+  text-align: justify;
+  margin-top: -29%;
+  margin-left: 70%;
+  margin-right: 3%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 30px;
+}

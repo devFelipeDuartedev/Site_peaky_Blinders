@@ -1,0 +1,125 @@
+/*Geral*/
+
+body {
+  background-image: url(../img/fundo.png);
+  color: white;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: "Roboto", sans-serif;
+}
+
+/*Títulos e logo*/
+
+.titulo {
+  padding: 0.5%;
+  background-color: transparent;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 70px;
+}
+
+.personagens {
+  margin-top: 5%;
+  padding: 0.5%;
+  background-color: transparent;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 70px;
+}
+
+.imagem1 {
+  text-align: center;
+  height: 320%;
+  width: 20%;
+}
+
+/*Texto principal*/
+
+.texto-centralizado-justificado {
+  text-align: justify;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 30px;
+  text-shadow: 2px 2px 4px rgb(0, 0, 0);
+  font-family: "Roboto", sans-serif;
+}
+
+/*Ícones e nomes*/
+
+.conteiner {
+  text-align: justify;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+  margin-left: 20;
+  margin-right: 20%;
+}
+
+.imagem2 {
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid darkviolet;
+  width: 250px;
+  height: 200px;
+}
+
+.imagem3 {
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid darkviolet;
+  width: 250px;
+  height: 200px;
+}
+
+.imagem4 {
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid darkviolet;
+  width: 250px;
+  height: 200px;
+}
+
+.imagem5 {
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid darkviolet;
+  width: 250px;
+  height: 200px;
+}
+
+.imagem6 {
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid darkviolet;
+  width: 250px;
+  height: 200px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+/*Redes sociais*/
+
+.redes-sociais {
+  margin-top: 5%;
+}
+
+/*Media*/
+
+@media screen and (max-whidth: 768px) {
+  .container{
+    width: 100%;
+    flex-direction: column;
+  }
+}
